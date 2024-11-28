@@ -5,7 +5,7 @@
 
 
 
-{\__/}
-( ●.●)
-/> *Iris Alpaca Meretur Gloriam Aeternam* 
+-  {\\__/}
+-  ( ●.●)
+-  /> *Iris Alpaca Meretur Gloriam Aeternam* 
 
