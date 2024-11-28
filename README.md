@@ -1,5 +1,11 @@
-# FORMATION_Deep_Reinforcement_Learning
+# **FORMATION Deep Reinforcement Learning** 🎓🤖
 
-suivie de la formation 
+## 🔗 **Lien vers la formation :**  
+[Hugging Face Deep Reinforcement Learning Course - Introduction](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
 
-https://huggingface.co/learn/deep-rl-course/unit0/introduction
+
+
+{\__/}
+( ●.●)
+/> *Iris Alpaca Meretur Gloriam Aeternam* 
+
