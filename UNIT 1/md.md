@@ -17,3 +17,12 @@ Continuous : infinite number of possible actions
 
 between 0 and 1 
 The larger the gamma, the smaller the discount. This means our agent cares more about the long-term reward.
+
+# Type of tasks 
+
+Episodic : starting point and ending point
+Continuing : task that continue forever
+
+# Exploration / Exploitation trade-off
+Exploration : trying random actions in order to find  more information about the environment 
+Exploitation : using known information to maximize the reward 
