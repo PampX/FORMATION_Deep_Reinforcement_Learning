@@ -8,6 +8,12 @@
 - need 200, i got 281.73 +/- 23.31
 - [Google Collab](https://colab.research.google.com/drive/1HIooycQSp-LAN_Mgrv4sPADKsr5Aky5K?usp=sharing)
 
+### UNIT 1 bonus 
+
+- [my Huggy](https://huggingface.co/PampX/ppo-Huggy)
+- [to try](https://huggingface.co/spaces/ThomasSimonini/Huggy)
+- write PampX and select ppo-huggy
+
 ### UNIT 2
 ### UNIT 3
 ### UNIT 4
