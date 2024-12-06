@@ -3,6 +3,8 @@
 ## 🔗 **Lien vers la formation :**  
 [Hugging Face Deep Reinforcement Learning Course - Introduction](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
 
+[To check my progress in Deep RL course "PampX"](https://huggingface.co/spaces/ThomasSimonini/Check-my-progress-Deep-RL-Course)
+
 ### UNIT 1 : Introduction Deep Reinforcement Learning
 - [LunarLander](https://huggingface.co/PampX/ppo-LunarLander-v2)
 - need 200, i got 281.73 +/- 23.31
