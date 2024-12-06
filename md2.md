@@ -16,3 +16,5 @@ update the value function from a complete episode, and so we use the actual accu
 ## Temporal Difference Learning: learning at each step
 update the value function from a step, and we replace
 Gt, which we don’t know, with an estimated return called the TD target
+
+[Q-learning exemple](https://huggingface.co/learn/deep-rl-course/unit2/q-learning-example)
