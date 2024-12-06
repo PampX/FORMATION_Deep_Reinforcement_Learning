@@ -19,7 +19,11 @@
 ### UNIT 2 : Introduction to Q-Learning
 
 - [Frozen Lake](https://huggingface.co/PampX/q-FrozenLake-v1-4x4-noSlippery)
+- [Frozen lake collab](https://colab.research.google.com/drive/1Mm6fCwibgkXj4EYrCN7OYdUg3FSUAS1z)
+
 - [Taxi]()
+- [Taxi collab]()
+
 ### UNIT 3
 ### UNIT 4
 ### UNIT 5
