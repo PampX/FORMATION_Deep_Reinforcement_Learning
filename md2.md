@@ -22,3 +22,5 @@ Gt, which we don’t know, with an estimated return called the TD target
 ## Off-policy vs on-policy algorithms
 Off-policy algorithms: A different policy is used at training time and inference time
 On-policy algorithms: The same policy is used during training and inference
+
+[glossary](https://huggingface.co/learn/deep-rl-course/unit2/glossary)
