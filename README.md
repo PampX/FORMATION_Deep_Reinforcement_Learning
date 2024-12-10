@@ -8,7 +8,7 @@
 ### UNIT 1 : Introduction Deep Reinforcement Learning
 - [LunarLander](https://huggingface.co/PampX/ppo-LunarLander-v2)
 - need 200, i got 281.73 +/- 23.31
-- [Google Collab](https://colab.research.google.com/drive/1HIooycQSp-LAN_Mgrv4sPADKsr5Aky5K?usp=sharing)
+- [Google colab](https://colab.research.google.com/drive/1HIooycQSp-LAN_Mgrv4sPADKsr5Aky5K?usp=sharing)
 
 ### UNIT 1 bonus : Introduction Deep Reinforcement Learning with Huggy
 
@@ -19,12 +19,15 @@
 ### UNIT 2 : Introduction to Q-Learning
 
 - [Frozen Lake](https://huggingface.co/PampX/q-FrozenLake-v1-4x4-noSlippery)
-- [Frozen lake collab](https://colab.research.google.com/drive/1Mm6fCwibgkXj4EYrCN7OYdUg3FSUAS1z)
+- [Frozen lake colab](https://colab.research.google.com/drive/1Mm6fCwibgkXj4EYrCN7OYdUg3FSUAS1z)
 
 - [Taxi](https://huggingface.co/PampX/q-Taxi-v3)
-- [Taxi collab](https://colab.research.google.com/drive/1He7sf4R7pPXftN106gPu0sOrwpnVZA7F?usp=sharing)
+- [Taxi colab](https://colab.research.google.com/drive/1He7sf4R7pPXftN106gPu0sOrwpnVZA7F?usp=sharing)
 
 ### UNIT 3
+
+- [SpaceInvaders](https://huggingface.co/PampX/dqn-SpaceInvadersNoFrameskip-v4)
+- [colab](https://colab.research.google.com/drive/1P4y7_zkF3z9gXMXbgeVuMUPhMBU71nPc?usp=sharing)
 ### UNIT 4
 ### UNIT 5
 ### UNIT 6
