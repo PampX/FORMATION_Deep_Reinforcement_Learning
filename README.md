@@ -24,7 +24,7 @@
 - [Taxi](https://huggingface.co/PampX/q-Taxi-v3)
 - [Taxi colab](https://colab.research.google.com/drive/1He7sf4R7pPXftN106gPu0sOrwpnVZA7F?usp=sharing)
 
-### UNIT 3
+### UNIT 3 Deep Q-Learning with Atari Games
 
 - [SpaceInvaders](https://huggingface.co/PampX/dqn-SpaceInvadersNoFrameskip-v4)
 - [colab](https://colab.research.google.com/drive/1P4y7_zkF3z9gXMXbgeVuMUPhMBU71nPc?usp=sharing)
