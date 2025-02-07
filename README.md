@@ -31,6 +31,10 @@
 
 ### UNIT 4  Policy Gradient with PyTorch
 
+- [PixelCopter](https://huggingface.co/PampX/pixelCopter)
+- [CartPole](https://huggingface.co/PampX/CartPole)
+- [Colab](https://colab.research.google.com/drive/1qZlV_Jnwmpjr_-eBRK1e8Ga3aucYhEHt?usp=sharing)
+
 ### UNIT 5
 
 ### UNIT 6

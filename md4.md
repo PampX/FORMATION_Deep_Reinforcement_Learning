@@ -1,5 +1,6 @@
 https://huggingface.co/learn/deep-rl-course/unit4/what-are-policy-based-methods
 
+### Policy Gradient
 
 Policy Gradient is a reinforcement learning method in which the agent learns an optimal policy (action strategy) directly, without having to estimate values as in Q-learning.
 
